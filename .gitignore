@@ -1,0 +1,11 @@
+ve_params.txt
+.vscode/*
+__pycache__/*
+spam_filter/*
+**/.ipynb_checkpoints
+*.csv
+*.txt
+**/__pycache__
+**/.vscode
+tempCodeRunnerFile.py
+**/sms_spam
